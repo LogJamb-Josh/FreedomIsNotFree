@@ -12,6 +12,6 @@ This is the most troubling event.
 ### 2. [Warning for No Signal](NoSignalEvent/NoSignalEventHome.md)
 This warning demonstrates using my hand to operate technology to communicate with others is required by law.
 
-### 3. [Confiscation Threat for Photo](ConfiscationThreatEvent/ConfiscationThreatEventHome.md)
+### May, 2 2025 [Confiscation Threat for Taking a Photo](ConfiscationThreatEvent/ConfiscationThreatEventHome.md)
 Another disturbing interaction with an irate law enforcement official.
 
