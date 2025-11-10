@@ -1,2 +1,2 @@
-[Home](README.md)
+[Home](./README.md)
 # Smartphone Event Home
