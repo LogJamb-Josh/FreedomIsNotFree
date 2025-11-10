@@ -9,9 +9,9 @@ There are three separate incidents of varying signifigance:
 ### 1. [Smartphone Ticket](SmartPhoneEvent/SmartphoneEventHome.md)
 This is the most troubling event.
 
-### 2. Warning for No Signal [Warning for No Signal](NoSignalEvent/NoSignalEventHome.md)
+### 2. [Warning for No Signal](NoSignalEvent/NoSignalEventHome.md)
 This warning demonstrates using my hand to operate technology to communicate with others is required by law.
 
-### 3. Confiscation Threat for Photograph
+### 3. [Confiscation Threat for Photo](ConfiscationThreatEvent/ConfiscationThreatEventHome.md)
 Another disturbing interaction with an irate law enforcement official.
 
