@@ -6,7 +6,7 @@ This repository documents a series of personal encounters with law enforcement.
 
 There are three separate incidents of varying signifigance:
 
-### 1. Smartphone Ticket
+### 1. [Smartphone Ticket](SmartphoneTicketHome.md)
 This is the most troubling event.
 
 ### 2. Warning for No Signal
