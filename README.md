@@ -1,6 +1,6 @@
 # Freedom Isn't Free
 
-This repository documents a series of personal encounters with law enforcement.
+This repository documents a series of personal encounters with law enforcement, all first amendment related.
 
 ## Overview
 
