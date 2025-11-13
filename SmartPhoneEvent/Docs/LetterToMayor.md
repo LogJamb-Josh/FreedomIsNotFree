@@ -1,6 +1,8 @@
-Sent to hallr@mattoonillinois.org Oct 24, 2025 (Bounced back) Then hand delivered to Mattoon City Hall
+# Letter to Mayor
+## Sent to hallr@mattoonillinois.org Oct 24, 2025 (Bounced back) Then hand delivered to Mattoon City Hall
 
 Mayor Hall,
+
 My name is Josh Overholt, and I live in Mattoon. In April 2024, I made a brief one-minute phone call to a business partner to ask if I could swing by, a gesture rooted in centuries of tradition across terrestrial, maritime, and aviation travel. That call resulted in a traffic stop by Officer Ronaldo Monte De Oca and a citation under 625 ILCS 5/12-610.2 for using an electronic communication device while driving. I contested the ticket in court before Judge Christopher Wetzel but ultimately lost. The ordeal cost me $164 in fines, $64 for a transcript from the wrong court date, and many trips to the courthouse. More concerning, though, is the lasting mark on my professional record, a consequence with serious implications in my field, where trust and compliance with legal standards are paramount.
 
 I’m not a lawyer, but I understand how technology and communication intersect with local, state, federal, and international law. I believe I have a constitutional right to speak to anyone or anything I choose, a right protected by multiple layers of law. I also believe our elected officials at the highest level share this understanding, and I believe the American people stand firmly behind free speech. You see it everywhere: in slogans at Rural King, the open exchange of ideas online, the entrepreneurial spirit of Mattoon, flags at McDonald’s promoting delivery apps, signs at Walmart encouraging calls from your car, and the giant American flag flying on Independence Day. Even churches and late-night TV reflect our enduring freedom to speak.
