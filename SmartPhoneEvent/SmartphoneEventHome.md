@@ -3,10 +3,11 @@
 
 ## Documents
 - [Order of Events](Docs/OrderOfEvents.md)
-- [Letter to Mayor](Docs/LetterToMayor.md)
-- [ACLU Rejection response](Docs/ACLURejection.md)
-- Complaint to Illinois Attorney General: [PDF](Docs/Complaint-Long-Pdf-From-Email.pdf), [Word](Complaint-Long.docx), [Their Reply](Overholt-closed-letter.pdf)
 
+- Complaint I created: [PDF](Docs/Complaint-Long-Pdf-From-Email.pdf),  [Word](Complaint-Long.docx)
+- Replies: [Illinois Attorney General](Overholt-closed-letter.pdf),  [ACLU](Docs/ACLURejection.md)
+- [Letter to Mayor](Docs/LetterToMayor.md)
+  
 ## Mattoon PD Press (Facebook)
 
 - [Mar 27, 2024 Announcement](Images/MPD-Press/20240327-Mar-27-2024.jpg)
