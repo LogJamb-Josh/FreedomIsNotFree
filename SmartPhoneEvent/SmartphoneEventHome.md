@@ -4,6 +4,8 @@
 ## Documents
 - [Order of Events](Docs/OrderOfEvents.md)
 - [Letter to Mayor](Docs/LetterToMayor.md)
+- [ACLU Rejection response](Docs/ACLURejection.md)
+- Complaint to Illinois Attorney General [PDF](Docs/Complaint Long Pdf From Email.pdf), [Word](Complaint Long.docx), [Rejection](Overhold closed letter.pdf)
 
 ## Mattoon PD Press (Facebook)
 
