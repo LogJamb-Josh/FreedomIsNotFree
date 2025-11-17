@@ -6,7 +6,7 @@ This repository documents a series of personal encounters with law enforcement, 
 
 There are three separate incidents of varying signifigance:
 
-### 1. [Smartphone Ticket](SmartPhoneEvent/SmartphoneEventHome.md)
+### 1. April 11, 2024 [Smartphone Ticket](SmartPhoneEvent/SmartphoneEventHome.md)
 This is the most troubling event.
 
 ### 2. [Warning for No Signal](NoSignalEvent/NoSignalEventHome.md)
