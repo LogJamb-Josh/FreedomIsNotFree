@@ -1,6 +1,9 @@
 [Home](/README.md)
 # Smartphone Event Home
 
+## Judici
+[My case in Judici](https://judici.com/courts/cases/case_information.jsp?court=IL015025J&ocl=IL015025J,2024TR732,IL015025JL2024TR732D1)
+
 ## Documents
 - [Order of Events](Docs/OrderOfEvents.md)
 
