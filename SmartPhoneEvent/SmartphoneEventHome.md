@@ -20,4 +20,4 @@
 - [Bodycam](https://youtu.be/S3OUUng4Tec?si=ogWsMkQNwh9TM0lx)
 - [Dash Cam](https://youtu.be/7q38MyXxHpE?si=s9WHlXJysc6mBoKK)
 - [Radar Detector](https://youtu.be/gK3khKle4Kc?si=aBME0Ng01d8sndZF)
-- [Transcript of court when cop didn't show](SmartPhoneEvent/Docs/24TR732Overholt(6-18-24).transcript.pdf)
+- [Transcript of court when cop didn't show](Docs/24TR732Overholt(6-18-24).transcript.pdf)
