@@ -16,3 +16,7 @@
 - [May 28, 2025 Results](Images/MPD-Press/20250528-May-28-2025.jpg)
 
 
+## Recordings of event
+- [Bodycam](https://youtu.be/S3OUUng4Tec?si=ogWsMkQNwh9TM0lx)
+- [Dash Cam](https://youtu.be/7q38MyXxHpE?si=s9WHlXJysc6mBoKK)
+- [Radar Detector](https://youtu.be/gK3khKle4Kc?si=aBME0Ng01d8sndZF)
