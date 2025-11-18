@@ -1,22 +1,32 @@
 # Order of Events
-- Prop Mgr schedules vacation in The Bahamas
-- Tenant didn’t pay rent
-- Prop mgr text tenant.  Tenant says mom died in Chicago, will get caught up soon.
-- Prop mgr returns from vacation, texts tenant, no reply.
-- Prop mgr goes to property, a completely different guy has moved in.  Claims he is renting the place.
-- Prop mgr calls owner.  Owner instruct prop mgr to deliver 10 day notice while owner research post Covid legal response.
-- Tenant didn’t move and no indication of movement.  
-- Owner drives to Coles County sheriffs depart and asks for advice.  Owner sent to court house.  Court house provides eviction packet with eviction hotline.  Owner texts prop mgr about packet, drives back home.
-- At stoplight, owner receives text from prop mgr.  Owner realizes he doesn’t have copy of the lease.  Owner presses one or two buttons to call prop mgr to ask if owner can pick up copy of lease.
-- Owner pulled over and ticketed starting at Walmart and ending 2 blocks from house.
-- Owner calls local police a couple times and negotiates with unknown occupant directly.  Occupant moves out.  Problem solved.
-- Owner reads statute.  Realizes he’s read this law many times.  Sees 4 obvious exceptions.
-- Owner drives to courthouse, says he will contest the ticket.
-- Owner googles how to file a motion and asks ai to generate a motion asking what owner did that was illegal.
-- Owner drives to courthouse to file motion.  It is filed.
-- Owner shows up to court.  Cop doesn’t show up.  Trial rescheduled.
-- Owner shows up to court.  Everyone shows up.  I lose.
-- Owner pays fine.
-- Owner researches next steps.
 
+### Phase 1: Initial Issue
+Property manager scheduled vacation in The Bahamas.
+Tenant failed to pay rent.
+Property manager texted tenant; tenant claimed mother died in Chicago and promised to catch up soon.
 
+### Phase 2: Discovery
+After vacation, property manager texted tenant again—no response.
+Property manager visited property; found a different occupant claiming to rent the unit.  Has no lease, don't know rent amount, doesn't know who he paid.
+Property manager called owner; owner instructed delivery of a 10-day notice while researching post-COVID legal options.
+
+### Phase 3: Legal Steps
+New mystery person did not vacate; no signs of movement.
+Owner visited Coles County Sheriff’s Department for advice; referred to courthouse.
+Courthouse provided eviction packet and hotline number.
+Owner informs property manager of current status via text before driving away.
+Owner realized he doesn't have a copy of the lease.
+Property manager texts back.  Owner reads text at stoplight.  Owner initiates a call to property manager while at red light hoping to swing by and get copy of lease.
+Owner was pulled over and ticketed almost immediately after.
+
+### Phase 4: Complication
+Owner negotiated directly with unknown occupant; occupant eventually moved out.
+
+### Phase 5: Aftermath
+Owner reviewed statute, identified exceptions.
+Owner contests ticket.
+Owner creates ai motion; failure to state a claim.
+Owner attends trial; cop doesn't show.  [Transcript](Docs/24TR732Overholt(6-18-24).transcript.pdf)
+Second court appearance: owner lost case and paid fine.
+Owner reaches out to the ACLU, Illinois Attorney General for help.
+Owner reaches out to the chief judge for a copy of the trial.  Denied.
