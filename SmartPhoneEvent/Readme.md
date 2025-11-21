@@ -16,9 +16,10 @@
   - [ACLU](Docs/ACLURejection.md)
 
 - [Letter to Mayor](Docs/LetterToMayor.md)
+  
 -  Letter to Chief Judge
-  - [PDF](Docs/Letter-to-Chief-Judge.pdf)
-  - [Word](Docs/Letter-to-Chief-Judge.docx)
+   - [PDF](Docs/Letter-to-Chief-Judge.pdf)
+   - [Word](Docs/Letter-to-Chief-Judge.docx)
   
 ## Mattoon PD Press (Facebook)
 
