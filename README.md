@@ -7,7 +7,7 @@ This repository documents a series of personal encounters with law enforcement. 
 There are three separate incidents of varying signifigance:
 
 ### April 11, 2024 - [Smartphone Ticket](SmartPhoneEvent/Readme.md)
-This is the most troubling event.
+In got a ticket for making a 1 minute phone call, initiated at a red light, by the book, in a semi-emergency situation.  I fought it in court as unconstitutional and lost.
 
 ### May 25, 2024 - [Warning for No Signal](NoSignalEvent/Readme.md)
 This warning demonstrates using my hand to operate technology to communicate with others is required by law.
