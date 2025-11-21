@@ -12,6 +12,6 @@ This is the most troubling event.
 ### May 25, 2024 - [Warning for No Signal](NoSignalEvent/Readme.md)
 This warning demonstrates using my hand to operate technology to communicate with others is required by law.
 
-### May 2, 2025 - [Confiscation Threat for Taking a Photo](Readme.md)
+### May 2, 2025 - [Confiscation Threat for Taking a Photo](ConfiscationThreatEvent/Readme.md)
 Another disturbing interaction with an irate law enforcement official.
 
